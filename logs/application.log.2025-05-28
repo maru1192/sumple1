@@ -1,0 +1,5 @@
+[ERROR] 2025-05-28 08:37:11,957 line 44, in <module>, session_id=d1c30110491f47deba74589f99745d03: 初期化処理に失敗しました。
+Connection error.
+[ERROR] 2025-05-28 08:37:39,297 line 44, in <module>, session_id=1ef15adaf0674f8f94edd0981c626e7d: 初期化処理に失敗しました。
+Connection error.
+[INFO] 2025-05-28 08:39:56,467 line 53, in <module>, session_id=db4b0739828a4d8dbbeecfaa24547ef4: アプリが起動されました。

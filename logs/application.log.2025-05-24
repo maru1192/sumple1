@@ -1,0 +1,12 @@
+[ERROR] 2025-05-24 16:03:24,740 line 44, in <module>, session_id=a667fa8546e946b89b66ec7e2c496ae5: 初期化処理に失敗しました。
+Connection error.
+[ERROR] 2025-05-24 16:09:23,883 line 44, in <module>, session_id=a5e9c2fde50b4fa9beae998b631846e7: 初期化処理に失敗しました。
+Connection error.
+[ERROR] 2025-05-24 16:14:08,217 line 44, in <module>, session_id=259b941f04764f07b8d54c92bf72fdf2: 初期化処理に失敗しました。
+Connection error.
+[ERROR] 2025-05-24 16:21:53,368 line 44, in <module>, session_id=fea0074713d7475bb3a7d3be487b638b: 初期化処理に失敗しました。
+Connection error.
+[ERROR] 2025-05-24 16:42:46,281 line 44, in <module>, session_id=39d3f692b1704850a023b5d58773e8ab: 初期化処理に失敗しました。
+Connection error.
+[ERROR] 2025-05-24 16:43:54,972 line 44, in <module>, session_id=38dde446fda440a3965a5d988319de2f: 初期化処理に失敗しました。
+Connection error.
